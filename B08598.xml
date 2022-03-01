@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Thomas Bushell, of Enston in the county of Oxon, Esquire.  Truly stated. Together with his progresse in minerals, and the desires of severall merchants and others that are willing and ready to advance so good a work for the benefit of the nation.  Humbly tendred to the serious consideration of the honourable House of Commons, and all other persons in authority, whether civill or martiall, that are desirous to advance the trade of the nation, supply the necessities of the poor, by discovering the hidden treasures of the Earth, preserve the lives of many poore creatures from untimely death (who now are destroyed in their prime for petty fellonies) which might otherwise be made serviceable to the Commonwealth.</title>
+            <author>Bushell, Thomas, 1594-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08598</idno>
+            <idno type="STC">Wing B6242</idno>
+            <idno type="STC">ESTC R233756</idno>
+            <idno type="EEBO-CITATION">64551010</idno>
+            <idno type="OCLC">ocm 64551010</idno>
+            <idno type="VID">184403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184403)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Thomas Bushell, of Enston in the county of Oxon, Esquire.  Truly stated. Together with his progresse in minerals, and the desires of severall merchants and others that are willing and ready to advance so good a work for the benefit of the nation.  Humbly tendred to the serious consideration of the honourable House of Commons, and all other persons in authority, whether civill or martiall, that are desirous to advance the trade of the nation, supply the necessities of the poor, by discovering the hidden treasures of the Earth, preserve the lives of many poore creatures from untimely death (who now are destroyed in their prime for petty fellonies) which might otherwise be made serviceable to the Commonwealth.</title>
+                  <author>Bushell, Thomas, 1594-1674.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeere 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Bushell. Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bushell, Thomas, 1594-1674.</term>
+               <term>Mines and mineral resources --  England --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184403:1" rendition="simple:additions"/>
+            <p>THE CASE OF <hi>Thomas Buſhell,</hi> of <hi>Enſton</hi> in the County of <hi>Oxon,</hi> Eſquire.</p>
+            <p>TRULY STATED.</p>
+            <p>Together with his progreſſe in <hi>Mi<g ref="char:EOLhyphen"/>nerals,</hi> and the deſires of ſeverall <hi>Merchants</hi> and others that are willing and ready to advance ſo good a work for the benefit of the Nation.</p>
+            <p>Humbly tendred to the ſerious conſideration of the Honourable Houſe of COMMONS, And all other perſons in Authority, whether Civill or Martiall, that are deſirous to advance the TRADE of the NATION, ſupply the Neceſſities of the Poor, by diſcovering the hidden Treaſures of the Earth, preſerve the lives of many poore Creatures from untimely death (who now are de<g ref="char:EOLhyphen"/>ſtroyed in their prime for petty Fellonies) which might otherwiſe be made ſerviceable to the COMMON-WEALTH.</p>
+            <p>
+               <hi>London,</hi> Printed in the Yeere 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184403:2"/>
+            <pb n="1" facs="tcp:184403:2"/>
+            <p>THat whereas the right and intereſt in and to all Mynes Royall, which are fountains of the Treaſure of the Nation, hath alwaies been an undoubted and legall right belong<g ref="char:EOLhyphen"/>ing to the Crown, and alwaies enjoyed by ſeverall <hi>Letters Patents,</hi> and Farms taken from the Crown, and to that purpoſe in all grants of Lands from the Crown, the ſaid Mynes either by ex<g ref="char:EOLhyphen"/>preſſe word, or elſe by implication of Law have alwaies been excep<g ref="char:EOLhyphen"/>ted and reſerved, for that it hath been found by experience, that the owners of Land, who receive a conſtant profit by the Herbage and other fruits of the Earth above ground, are ſeldome willing to adventure any part of their fortune for diſcovering the hid Trea<g ref="char:EOLhyphen"/>ſure in the bowels of the Earth: And whereas all Subjects were invited and encouraged by ſeverall Proclamations from his late Majeſty, and his Royall Father King <hi>James,</hi> to ſpend their times and pains in diſcovery of the ſaid Mines.</p>
+            <p>And I <hi>Thomas Buſhell</hi> having had many yeers relation to that great Secretary of Nature, the late Lord Chancellor <hi>Bacon;</hi> and thereby from him learnt many ſecrets in diſcovering and extracting <hi>Mine<g ref="char:EOLhyphen"/>rals;</hi> and that it was not onely the harmlieſt gain, and greateſt good to the Common-wealth, but the principall ſtudy and induſtry of the beſt bred perſons of other Nations, and the honourableſt improve<g ref="char:EOLhyphen"/>ment that this world is capable of, which was the firſt inducement that encouraged me to look after the ſearch thereof, being by good and learned Councell ſatisfied touching the legallity of the title and alſo having found out a new way of diſcovering the concealed trea<g ref="char:EOLhyphen"/>ſure of the Earth, with more certainty and leſſe hazard, by means of a <hi>Portugall</hi> with whom I adviſed, and likewiſe was aſſured, that in the Mountains of <hi>Broomfloid, Tallibont, Geginan, Combmerven,</hi> &amp; the <hi>Dar<g ref="char:EOLhyphen"/>ren,</hi> there was great quantities of Silver &amp; Lead, of which I informed his Majeſty, moving him to undertake the worke; but his Majeſty, for ſome reaſons to himſelfe known, declined the ſame, and com<g ref="char:EOLhyphen"/>mand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d me (the Lady <hi>Middleton</hi> holding the ſaid Mynes Royall in <hi>Wales,</hi> by vertue of a Grant from King <hi>James</hi>) to buy the ſame, and to take the Mynes, which I accordingly did, paying unto the Lady <hi>Middleton</hi> 400 l. in hand, and 400 l. <hi>per annum,</hi> during the conti<g ref="char:EOLhyphen"/>nuation of her intereſt therein, by vertue of the ſaid Grant; having firſt obtained from his ſaid Majeſty (upon my engagement to cut through the ſaid five Mountains, at My own charge, by a new way
+<pb n="2" facs="tcp:184403:3"/> of diſcovery) not onely a confirmation of the ſaid Letters Patents, formerly granted to Sir <hi>Hugh Middleton,</hi> together with the ſeverall Leaſes from the Governours, Aſſiſtants, and Society of the City of <hi>London,</hi> but alſo an abſolute engagement upon his Majeſties honour, and under his Signet and privy Seale, for the performance of any other Act of Grace, or aſſiſtance, that I or my Counſell ſhould at any time deſire, not being detrimentall to his Honour, or the Common<g ref="char:EOLhyphen"/>wealth, as by the enſuing Grant appeareth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="grant">
+                        <opener>
+                           <salute>CHARLES R.</salute>
+                        </opener>
+                        <p>TRuſty and welbeloved, We having taken into conſideration your late Relation concerning your proceedings and intentions for the perfecting of that great work happily by you begun in our County of <hi>Cardigan</hi> in Our Principality of <hi>Wales,</hi> concerning thoſe hopefull Mynes by you diſcovered, approving well of your beginnings, proceedings, and intentions, We have thought good out of Our Royall diſpoſition, to the encouraging of you and all ſuch as are ſtudious or induſtrious, to do to <g ref="char:V">Ʋ</g>s or Our Commonwealth profitable ſervice, to aſſure you by theſe Our Let<g ref="char:EOLhyphen"/>ters that you ſhall not onely by Our protection peaceably enjoy the Contract and bargaine by you made with the Lady <hi>Elizabeth Middleton,</hi> concer<g ref="char:EOLhyphen"/>ning the ſaid Mynes, with all things thereunto belonging: but alſo be well aſſured that both you, your Agents, Aſſiſtants, or Coadjutors ſhall from time to time have all the furtherance and favour We can vouchſafe to you or them. And for the better encouraging of you to go cheerfully and confidently on with the works, when your learned Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll at the Law ſhall adviſe you to pray any further Act or Acts from <g ref="char:V">Ʋ</g>s, whereby the deſigne may be advanc'd, and you and your Aſſiſtants ſecured, you ſhall finde <g ref="char:V">Ʋ</g>s ready to grant unto you any your lawfull deſires: And in the mean time theſe Our Letters ſhall be a good and ſufficient teſtimony of Our Royall in<g ref="char:EOLhyphen"/>tentions towards you, and Our good wiſhes to the proſperity of your under<g ref="char:EOLhyphen"/>takings.</p>
+                        <closer>
+                           <dateline>Given at Our Court at <hi>Whitehall</hi> under our Signet <date>the three and twentieth day of <hi>February,</hi> in the twelfth yeer of Our Raigne.</date>
+                           </dateline>
+                        </closer>
+                        <trailer>To Our truſty and welbeloved Subject and Servant <hi>Thomas Buſhell,</hi> Eſqu.</trailer>
+                        <closer/>
+                        <postscript>
+                           <p>This is entred in the Signet Booke <date>
+                                 <hi>23</hi> Febr. <hi>1636.</hi>
+                              </date>
+                           </p>
+                           <closer>
+                              <signed>Ja. Store.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="3" facs="tcp:184403:3"/>
+            <p>And further to prevent all diſturbances which might diſcourage my proceedings, His Majeſty gave Warrant to Mr. Atturney generall to proceed by information in the Starch amber againſt all ſuch as ſhould be ſo great enemies to their Country as to interrupt ſo pub<g ref="char:EOLhyphen"/>lique a good. The copy of which Warrant followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>TRuſty and welbeloved, We Greet you well. Whereas we have ta<g ref="char:EOLhyphen"/>ken into our ſerious conſideration, of what conſequence the proba<g ref="char:EOLhyphen"/>bility of increaſing our Mynes Royall may prove to <g ref="char:V">Ʋ</g>s, and Our publique weale, being diligently ſearcht into. And for the better incou<g ref="char:EOLhyphen"/>ragement of Our loving Subjects and ſpeedy pay of the poore Myners; E<g ref="char:EOLhyphen"/>rected a Mynt in Our Caſtle of <hi>Aberuſtwith</hi> and intruſted Our deſigne to the ſole care and Government of Our Servant <hi>Thomas Buſhell,</hi> whoſe induſtri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us proceedings We ſo well like and approve of, that Our reſolution is abſolutely bent to further the proſecution of his endeavours on Our behalf, for the perfecting ſo good and pious a work: As We will and Command you that you take ſpeciall care, that you ſpeedily proceed in Our Court of Starchamber againſt ſuch malicious perſons as have, or doe goe about, not onely to Eclypſe Our Prerogative in Myneralls, and ſo frruſtrate Our Princely Pleaſure in a Common good, for the benefit of their own private ends, by endeavouring to make thoſe Mynes theirs, which hold Silver worth the refyning, and of Right belonging unto <g ref="char:V">Ʋ</g>s; But alſo ſuch perſons as have of late practiſed Combinations of Affronts againſt thoſe intruſted by <g ref="char:V">Ʋ</g>s, and Our Mynes Royall to Our diſhonour, As by the Certificates hereun<g ref="char:EOLhyphen"/>to annexed will informe you; Authorizing you likewiſe for the better regu<g ref="char:EOLhyphen"/>lating of unruly Myners complained of, to draw up a Warrant for a Stan<g ref="char:EOLhyphen"/>nary Court fit for Our Royall ſignature, that We may be troubled no fur<g ref="char:EOLhyphen"/>ther. And this ſhall be your ſpeciall Warrant,</p>
+                        <closer>
+                           <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                              <date>this ſeven and twentieth day of <hi>Febr. 1638.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                        <trailer>To Our Truſty and welbeloved Sir <hi>John Banks</hi> Knight, Our Atturney Generall, or Sir <hi>Edward Littleton</hi> Knight, Our Sollitor Generall.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By vertue of which Grants from his Majeſty, I being intereſſed in ſome of the Mynes Royall in <hi>Wales, Devon,</hi> and <hi>Cornwall,</hi> and being deſirous to know what was a Myne Royall in the ſence of Law, I
+<pb n="4" facs="tcp:184403:4"/> obtained the opinion of divers learned men in the Law, who decla<g ref="char:EOLhyphen"/>red their judgements therein, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>The Declaration of learned Lawyers, what a Myne Royall is, according to former Preſidents.</head>
+                        <p>Although the Gold or Silver contained in the baſe Mettall of a Myne in the Land of a Subject, be of leſſe value th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n the baſer Mettal; yet if the Gold or Silver doe countervaile the charge of the refining, or be of more worth then the baſe Mettal ſpent in refining it, this is a Myne Royall, and as well the baſe Metall as the Gold and Silver in it, belong by Prerogative to the Crown.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Sir <hi>Ralph Whitfield,</hi> his Majeſties Serjeant at Law.</item>
+                                 <item>Sir <hi>Edward Herbert,</hi> Attourney Generall.</item>
+                                 <item>
+                                    <hi>Oliver St. John</hi> Sollicitor.</item>
+                                 <item>
+                                    <hi>John Glanvill,</hi> Serjeant.</item>
+                                 <item>
+                                    <hi>John Wilde,</hi> Serjeant.</item>
+                                 <item>
+                                    <hi>Rich Creſſwell,</hi> Serjeant.</item>
+                                 <item>
+                                    <hi>Orlando Bridgman,</hi> the Princes Sollicitor.</item>
+                              </list>
+                              <list>
+                                 <item>
+                                    <hi>Robert Holborn.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Hern.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ed. Bagſhaw.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Lane.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rich. King.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edmund Prideaux.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Maynard.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edward Hide.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Glinne.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Charls Fulwood.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Harbottle Grimſton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn White.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>George Peard.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Franklin.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Weſton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Glover.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Ellis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Culpepper.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Goodwin.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Sandford.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn George.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>James Haward.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THat ſhortly after my firſt entrance upon the Mynes in <hi>Wales,</hi> there were drowned 80. plumps, by reaſon of a great deluge of water then happening, whereby my underta<g ref="char:EOLhyphen"/>king became unlikely in the judgement of others, to pro<g ref="char:EOLhyphen"/>duce any good effect, either to my ſelfe, or the Nation, that I was by my friends pittied, and by my foes laughed at; ſo that had I not duly conſidered the Juſtice of the undertaking in reſpect of God, the honour in reſpect of my Countrey, and the poſſibi<g ref="char:EOLhyphen"/>lity in reſpect of my ſelf, meeting with ſo many diſcouragements I had certainly deſiſted: but God, who is the Author and Finiſher of all juſt undertakings, ſupported me under, and carryed me through that great work; and after nigh four years night and day ſpent in recovering of the ſaid decayed Mynes, by the continued mainte<g ref="char:EOLhyphen"/>nance
+<pb n="5" facs="tcp:184403:4"/> and induſtry of five hundred Families, and the expence of about 7000 l. as a reward of my hazard, expence and labour, brought me to reap the harveſt of my hope, with diſcovering far diſtant by the Art of dyalling, where the Veines of Silver and Lead Ore ſprang at the ſuperficious of the Rocks, from the old Works in new places, which the malice or ignorance of ſome, that knowes not the generation of Mettals, nor the largeneſſe of their extent in creation, of depth and length, for mans uſe and Gods glory, would needs affirme that it was a new worke, and not a branch of the old Myne, formerly deſerted through the ſaid deluge of water; which, to confute their incredulity therein, I have been at 10000 li. charge, for to thred the ſuppoſed new Myne to the old worke, that others of my profeſſion might as well be verſt in the myſtery of Myning, and encouraged therein, when all other hopes are fruſtrated of re<g ref="char:EOLhyphen"/>ceiving profit from their deeper ſearch for Mynerall treaſure, as I was aſſured of the truth by the aforeſaid L. Chancellor <hi>Bacon,</hi> and a Portugals deſcription of ſuch a Mynerall experiment.</p>
+            <p>Having made the diſcovery as aforeſaid, and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing ſatisfied in the Legality of my undertaking in reſpect of man, I endeavored to proceed therein according to the Law of God, ſtriving to do unto others as I would they ſhould do unto me. In order where<g ref="char:EOLhyphen"/>unto (having diſcovered a branch that iſſued from the old Myne (at the mountain of <hi>Geginan</hi>) I at the generall Aſſize held for the County of <hi>Cardigan</hi> (Judge <hi>Turner</hi> being on the Bench) publickly propounded unto the Gentry and Freeholders of the ſaid County, being Owners of the Herbage, That if any of them would (by my example) adventure to diſcover the concealed Treaſure in any Herbage, belonging unto them, at their own charge, they ſhould (although the Grant was particular to me from his Majeſty) en<g ref="char:EOLhyphen"/>joy the benefit of my Grant and Mint, for their encouragement therein; But if they did (in reſpect of the great charge and hazard) decline the ſame, That then, if afterward my endeavours were cround beyond preſent probability or expectation, they would not envy or repine at that bleſſing which Gods providence as a reward of my labours, beſtowed upon me: Further adding, That if, in the proſecution of the ſaid work, I might commit any Treſpaſſe upon the Herbage of any Gentleman, or others, I would give ſuch anſwerable ſatisfaction as ſhould by the next Juſtice of
+<pb n="6" facs="tcp:184403:5"/> Peace be judged double to the damage ſuſtained by my treſpaſſe thereupon: which promiſe I have conſtantly performed ever ſince my firſt undertaking: The Mynes mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> commonly being diſcove<g ref="char:EOLhyphen"/>red in ſuch Grounds as are worth not above three pence <hi>per</hi> Acre, which hath been proved upon a full Hearing this <hi>Parliament.</hi>
+            </p>
+            <p>But to proceed.</p>
+            <p>Having by the mercy of God raiſed a conſiderable benefit, I did not caſt about how to hide, but to improve my Talent for the good of my Native Country, which my gracious Maker had beſtowed: As an evidence whereof I improved my ability for the recovering of ſeverall drowned Mynes, and diſcovering other new branches of the old Mynes wrought by the Romans, <hi>(viz.)</hi> at the Mountains called <hi>Tall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bont, Broomfloid Combmervin, Geginan, Commuſtwith, Comſum-Lock</hi> and the Beacon hill of the <hi>Daren;</hi> by which means Trade was greatly encreaſed the Common wealth inriched, and many thou<g ref="char:EOLhyphen"/>ſands of poor people relieved.</p>
+            <p>I applyed my ſelf to finde out ſome more facile, leſſe chargeable, and more expeditious way, (not only to diſcover new, but to re<g ref="char:EOLhyphen"/>cover the old decayed Mynes. In order whereunto I contrived a way of Addits, cutting levell through the loweſt part of the Moun<g ref="char:EOLhyphen"/>tain, (and not beginning at the top, and ſinking downward,) whereby the work was made more profitable, and leſſe ſubject to the caſualties of damps, and drowning, by preſerving a conſtant water courſe, which was extream incident to the other way of myning, whereby moſt commonly the Myners were drowned out before they could attain half the riches of the Myne; and alſo avoyding the tedious and chargeable ſinking of air-ſhafts, by con<g ref="char:EOLhyphen"/>veying air through the Mountain many hundred Fathoms, with Pipe and Bellows, away never before uſed by any undertakers, but now approved by all. And becauſe I found that the wood of the Countrey was exceedingly waſted, by extracting the ſaid Minerals; and that it could not be poſſible to afford ſufficient ſupply, or if it did, it muſt be at ſuch a rate as would devour the greateſt part of the gain, beſides the prejudice that would redound to the Countrey by the decay of Wood, being forc't to uſe ſuch great quantities thereof; I made tryal of many expenſive concluſions, and ceaſed not till I had contrived a way to make the defects of the Valley anſwer the fer<g ref="char:EOLhyphen"/>tile Mountain, by a ſupply of fuell; ſo that with Turf and Sea-coale
+<pb n="7" facs="tcp:184403:5"/> charked, I have and doe refine the Silver and Lead without Wood and Charcoale, by which means the undertaking is of much more advantage as well to the Commonwealth as to the perſons ingaged in the proſecution thereof.</p>
+            <p>His late Majeſty having received ſufficient teſtimony of the Pre<g ref="char:EOLhyphen"/>miſes, and being ſenſible of the great good that was like further to redound to the Nation, by my charge and induſtry, for my better incouragement, and to the end that others might be induced to joyn in aſſiſting me in a worke, conducing ſo much to a generall good; and in purſuance of his promiſe made at my entry thereupon in the year 1636. did, by and with the advice of his Privy Councel, grant the Impoſt and Cuſtoms of all Lead that ſhould be tranſported out of <hi>England</hi> and <hi>Wales,</hi> for the Rent of 6000 l. <hi>per annum,</hi> to be paid by me to His Majeſty, his Heirs, &amp;c. for 21 years: giving me alſo full power to deduct out of the ſaid Rent all ſuch ſums of money as I had formly disburſt for his ſervice, with 8 l. <hi>per Cent.</hi> for the forbearance thereof.</p>
+            <p>His Majeſty ſeeming to be convinced by his Councel at a full debate: That it was much better that I ſhould enjoy the Cuſtoms for a certain Rent (though happily (ſome years) beneath the value thereof) for that by my charge and induſtry the ſtaple Com<g ref="char:EOLhyphen"/>modity of the Nation would be greatly encreaſed; ſo that if I, by the diſcovery of the concealed Treaſure got 100 l. the Com<g ref="char:EOLhyphen"/>mon-wealth would gain 1000 l. by the advancement of Trade, in reſpect of exportation and Importation, then that the ſaid cuſtoms ſhould be truſted to the generall Farmers or Collectors, who could adde nothing to that Nationall work (unleſſe it were diſcourage<g ref="char:EOLhyphen"/>ment to me and my fellow undertakers;) and alſo that the Grant of the ſaid Cuſtoms could not be leſſe then 21 years, for that no man could be encouraged otherwiſe to adventure his eſtate in the promotion thereof, ſince a ſhort Leaſe would be expired before a man could poſſibly obtain the fruit of his charge and hazard, a dozen yeares being many times ſpent before a Myne could be at<g ref="char:EOLhyphen"/>tained.</p>
+            <p>But in the unhappy difference betweene the King and Parliament I was forced by the power of the Parliaments Army, and neceſ<g ref="char:EOLhyphen"/>ſitated to retire my ſelfe into the Iſland of <hi>Lundy,</hi> of which His Majeſty made me Governour, where I remained peaceably, with<g ref="char:EOLhyphen"/>out
+<pb n="8" facs="tcp:184403:6"/> doing prejudice to any, untill the Lord Generall in his Letter bearing date the 8 of <hi>April,</hi> 1646. ſent me by a Drummer this fol<g ref="char:EOLhyphen"/>lowing Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Sabbati,</hi> 12 <hi>Ianuary,</hi> 1645.</date> At the Committee of both Kingdoms at <hi>Darby</hi> houſe.</dateline>
+                        </opener>
+                        <p>Jt is Ordered, That a Propoſition be made to Mr. <hi>Buſhell,</hi> That if he will deliver up the Iſle of <hi>Lundy</hi> this Committee will uſe their endeavors with the Parliament, that he may be reſtored to his Intereſt in the Silver Mynes.</p>
+                        <closer>
+                           <signed>GUALTER FROST Secretary to the ſame Committee.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Together with which Order his Excellency ſent a ſafe Conduct for me to come to the Head Quarters to treat with the Lord <hi>Say,</hi> or with ſuch as he ſhould appoint touching the ſaid Propoſition made by the ſaid Committee. Some moneths after the ſaid Committee ſent another Order, thereby promiſing their Endevours to the Par<g ref="char:EOLhyphen"/>liament, for the taking off the Delinquency of the Souldiers that were with me in <hi>Lundy, &amp;c.</hi>
+            </p>
+            <p>After receipt whereof (having firſt obtained his Majeſties con<g ref="char:EOLhyphen"/>ſent for the Reſignation thereof,) I informed my Lord <hi>Say</hi> by Letter, That I could willingly yeeld obedience to the ſaid Orders, if the ſight thereof would relieve my loſſes, or cancell my Obligati<g ref="char:EOLhyphen"/>ons; But ſince I could receive neither ſatisfaction or ſecurity by thoſe, I propoſed, That the Honorable Committee of both King<g ref="char:EOLhyphen"/>doms would be pleaſed to procure the reſtitution of my eſtate with all other immunities thereunto belonging by an Ordinance of Par<g ref="char:EOLhyphen"/>liament, that thereby I might be enabled to pay my debts, and pro<g ref="char:EOLhyphen"/>ſecute that publike employment which I had formerly undertaken, and that before my Surrender thereof, otherwiſe I ſhould be con<g ref="char:EOLhyphen"/>ſtrained to retain it as the refuge of my fortune, <hi>&amp;c.</hi>
+            </p>
+            <p>Many Meſſages, Letters and Replies paſſed for ſome months about the Surrender thereof, after which it pleaſed the honorable Parlia<g ref="char:EOLhyphen"/>ment to grant my deſire, as appears by the enſuing Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbati, 10 July, 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons aſsembled in Parliament, That up<g ref="char:EOLhyphen"/>on the delivery up of the Jſle of Lundy to the Lord Viſcount <hi>Say</hi> and <hi>Seal,</hi>
+                        </p>
+                        <gap reason="missing" extent="1 page">
+                           <desc>〈1 page missing〉</desc>
+                        </gap>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:184403:6"/>
+            <p>
+               <hi>The ſum of my deſires are,</hi>
+            </p>
+            <p>That ſince his late Majeſty, in purſuance of his ſaid promiſe made at my entrance upon the Mines in the year 1636. being convinced by his Councel at a full debate: That it was much better that I ſhould enjoy the Cuſtoms for a certain Rent (though happily (ſome years) beneath the value thereof) for that by my charge and indu<g ref="char:EOLhyphen"/>ſtry the ſtaple Commodity of the Nation would be greatly encrea<g ref="char:EOLhyphen"/>ſed; ſo that if I, by the diſcovery of the concealed Treaſure, got 100 l. the Nation would gain 1000 l. by the advancement of Trade, in reſpect of exportation and Importation, then that the ſaid cuſtoms ſhould be truſted in common to Farmers or Collectors, who could adde nothing to that Nationall work (unleſſe it were diſcourage<g ref="char:EOLhyphen"/>ment to me and my fellow undertakers;) and alſo that the Grant of the ſaid Cuſtoms could not be leſſe then 21 years, for that no man could be encouraged otherwiſe to adventure his eſtate in the promotion thereof, ſince a ſhort Leaſe would be expired before a man could poſſibly obtain the fruit of his charge and hazard, a dozen yeares being many times ſpent before a Myne could be attained: for theſe and the other reaſons before ſpecified, his Majeſty was pleaſed to ſever the ſaid Cuſtom of Lead from the great Farm, and to grant the ſame to me and my Aſſigns for the term of twenty one years, for the Rent of 6000 l. <hi>per annum,</hi> giving me power thereby to deduct out of the ſaid Rent, all ſuch ſums of money as I had formerly diſ<g ref="char:EOLhyphen"/>burſed for his ſervice, with an allowance of 8 l. <hi>per cent.</hi> for the for<g ref="char:EOLhyphen"/>bearance thereof, as by the ſaid Grant appeareth: By vertue of which Grant, as by my Councell I am adviſed, I have a legal intereſt in the ſaid Cuſtoms during that term.</p>
+            <p>And foraſmuch as the Cuſtom, which formerly was 2 l. 8 s. <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> Fodder, hath been by the Parliament, for the good of the Common<g ref="char:EOLhyphen"/>wealth reduced to 20 s. <hi>per</hi> Fodder; And for that the quantity of Lead now tranſported, is nothing near ſo much as was ſhip'd and tranſported formerly, as by the certificate of Cuſtoms annexed may appear: That therefore, although I might juſtly claim the benefit of the ſaid Grant from His Majeſty by vertue of the former recited Or<g ref="char:EOLhyphen"/>der of Parliament, which provideth, that I ſhould upon the perfor<g ref="char:EOLhyphen"/>mance of the Conditions therein ſpecified, be reſtored to all my E<g ref="char:EOLhyphen"/>ſtate, with ſuch right as I, or my Aſſigns, had, or ought to have had, in the Mines, &amp;c. Yet declining my Intereſt herein, by vertue of the
+<pb n="8" facs="tcp:184403:7"/> ſaid Grant, I humbly ſubmit my ſelf to the Judgement of Parlia<g ref="char:EOLhyphen"/>ment, not doubting their readineſſe to give all juſt encouragement to my endeavors, which ſhall tend onely to the advancement of the publique good.</p>
+            <p>
+               <hi>In purſuance whereof I humbly propoſe and deſire.</hi>
+            </p>
+            <p>That foraſmuch as by my charge, vaſt expence and hazard (be<g ref="char:EOLhyphen"/>ing thereby damnified many thouſands of pounds) the Trade of Lead being a Staple Commodity, hath been, and is likely to be ad<g ref="char:EOLhyphen"/>vanced, That therefore I may be permitted to farme the ſaid Cu<g ref="char:EOLhyphen"/>ſtoms of Lead, for the term of years aboveſaid, paying 2500 l <hi>per annum</hi> for the ſame; which according to the due computation of the quantities of Lead tranſported for two ſeven years laſt paſt (abating the reducement of the Cuſtoms by the Parliament, from 2l. 8 s. <hi>per</hi> Fodder, to 20 s. <hi>per</hi> Fodder, together with the deductions and allowance of the charge of the Collection thereof, which a<g ref="char:EOLhyphen"/>mounted to above 1000 l. <hi>per annum</hi>) as a Rent ſufficiently propor<g ref="char:EOLhyphen"/>tionable, as by the Certificates from the Farmers and Commiſſio<g ref="char:EOLhyphen"/>ners, who by order of the Committee of the Navy have examined and certified the ſame, may fully appear; the ſubſtance of which cer<g ref="char:EOLhyphen"/>tificates, for better ſatisfaction, are here inſerted.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>It appeareth by the Certificate from the Farmers of the Cuſtoms herewith preſented, that there was tranſported in</hi> An. 1634. <hi>and from thence till the end of the year</hi> 1640. <hi>(being ſeven years)</hi> 40772 <hi>Fodders, three quarter of Lead, and no more. For which, if there had been received (as the Book of Rates now allows) onely</hi> 20 s. per <hi>Fedder, the Cuſtoms of Lead for theſe ſeven years, would then have amounted unto</hi> 40772 l. 15.s. 0. d.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Which being divided into ſeven parts, it appeareth that the Cuſtoms did yeeld yearly.</hi>
+                     </cell>
+                     <cell>l. s. d. 5824. 13. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>It appeareth alſo by the ſaid Certificates, that in the year</hi> 1641. <hi>and to the end of the year</hi> 1646. <hi>(being ſix years, there was tranſported</hi> 25483. <hi>Fodders and a quarter of Lead, and no more. For which, if there had been received onely</hi> 20 s. per <hi>Fodder, the</hi> Cuſtoms <hi>for thoſe ſix years, would have amounted unto</hi> 25483 l. 5 s. <hi>which being divided into ſix parts, it ap<g ref="char:EOLhyphen"/>peareth that the Cuſtoms did for that time yeeld yearly (beſides above a twentieth part that payes double Cuſtoms)</hi>
+                     </cell>
+                     <cell>l. s. d. 4247. 4. 2.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="9" facs="tcp:184403:7"/>
+            <p>But in caſe it ſhall not be judged convenient for me to Farm the ſame, that then I may be permitted to enjoy the Lead and Oar Cuſtom free, which I already have, or hereafter ſhall (at my own coſt, or the charges of ſuch as ſhall adventure with me) diſcover out of new Mynes, or ſuch as have been drowned and diſcerted for many Ages: And to the end that a work of ſuch Nationall advantage may not be retarded, nor my ſelf and other undertakers diſcouraged; but rather, by all juſt wayes and means enabled to proſecute and carry on the ſame: I further humbly pro<g ref="char:EOLhyphen"/>poſe, That for the future, the Parliament would be pleaſed to Or<g ref="char:EOLhyphen"/>dain, That all perſons convicted of petty Felonies may be employed in the ſaid Mynes, giving ſufficient ſecurity for their true ſervice therein, untill ſuch time be exſpired as ſhall be adjudged meet for the expiation of their Crimes; by which means I conceive many poor Creatures will not onely be preſerved from untimely death, and removed from their idle company, but being forced to work, be made ſerviceable to the Common-wealth, and ſenſible of their own follies; the charge greatly leſſned to thoſe who venture their for<g ref="char:EOLhyphen"/>tunes in the ſaid undertakings, for the reaſons following:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="considerations">
+                        <p>VVHereas it hath been the cuſtom in all Kingdoms, States and Commonwealths, where Mines are hapily diſcove<g ref="char:EOLhyphen"/>red to give all encouragement to Miners and Adventures in Mine<g ref="char:EOLhyphen"/>rall Works, by the Grant of ſeverall Charters, Franchiſes, and Pri<g ref="char:EOLhyphen"/>viledges, whereby they might the more diligently attend the ſame; and in purſuance thereof ſo to be governed and ordered under a particular juriſdiction in all places; as <hi>Georgius Agricola,</hi> who was the moſt expert Mineraliſt of theſe latter Ages, and himſelfe King of the Mines of all <hi>Germany,</hi> doth teſtifie and affirm; as the Stane<g ref="char:EOLhyphen"/>ries heretofore in <hi>England</hi> in ſome ſort were. And whereas the late King <hi>Iames,</hi> who was truly ſtiled, <hi>The King of peace, and mirror of mercy,</hi> was graciouſly pleaſed for ſaving the Lives of ſuch Male<g ref="char:EOLhyphen"/>factors as were condemned to Death by the Law for Petty Felonies, being ſuch as were not any Scandall to the Church or State, nor had imbrued their hands in blood, to admit their Tranſportation by the <hi>Eaſt India</hi> and <hi>Virginia</hi> Companies, for their furtherance of Plantations: In which action he did alſo caſt his eyes upon the war<g ref="char:EOLhyphen"/>rantable
+<pb n="10" facs="tcp:184403:8"/> proceedings and preſidents of other moſt famous Princes in the like kinde; as the late Queen <hi>Eliz.</hi> who built certain Galleys of purpoſe for imployment of ſuch kind of Offendors, of ſtrong and able bodies, as might attend her memorable deſigns at Sea, eſpecial<g ref="char:EOLhyphen"/>ly upon all ſudden and reſolute Enterprizes, it being the uſuall way and courſe not onely of the ancient Romans, to adjudge perſons condemned for notorious crimes to work in the mettall Mines, but alſo of other Chriſtian Princes, as the King of <hi>Spain</hi> both for the ſupply of his Galleys againſt the <hi>Turks</hi> and <hi>Moors,</hi> and eſpecially for the Enlargement of his <hi>Indian</hi> Mines of Gold, Silver, Quick<g ref="char:EOLhyphen"/>ſilver and the like; and his Conqueſts of <hi>Moloceo, Goa Ormus,</hi> and other rich and populous Iſlands; The King of <hi>France,</hi> for his Galleys of <hi>Marſellis;</hi> The State of <hi>Venice;</hi> The Duke <hi>Florence,</hi> who by ſuch kinde of ſaved Offendors built <hi>Ligorn</hi> (one of the moſt fa<g ref="char:EOLhyphen"/>mous Sea Ports within the <hi>Straits.</hi>) In all which States and Services, divers of theſe Malefactors, by good encouragement, have ſought not ſo much by ſurviving as by their incredible Labors, effecting matters otherwiſe held invincible, to obliterate their former Igno<g ref="char:EOLhyphen"/>mies by merit of Reward. And whereas in this Commonwealth too many ſuch Offendors are moſt untimely cut off, in their beſt abilities of Service; ſo there is means of employment for ſuch per<g ref="char:EOLhyphen"/>ſons, to redeem their loſt Reputation, by endeavoring to do faith<g ref="char:EOLhyphen"/>full Service for their Countrys honour, and the Commonwealths good, in the happy work of diſcovering Minerals out of the barren Rocks: My humble Suit therefore is, That you would be pleaſed, out of all theſe weighty conſiderations, and beneficiall conſequen<g ref="char:EOLhyphen"/>ces, tending ſo much to the good of the Commonwealth, to grant me power for the chooſing of ſuch ſeverall perſons out of the Pri<g ref="char:EOLhyphen"/>ſons in this Nation, as are and ſhall be condemned for ſmall Of<g ref="char:EOLhyphen"/>fences, and of able ſerviceable bodies, by the approbation of the Judges; as ſhall implore your mercy, to be imployed by me in the works of the Mines Royall, they giving ſecurity for their good behaviour, with ſuch limitation of time, and allowance for their ſuſtentation, as to your Wiſdoms ſhall be thought fit; that by their dutifull and laborious performance therein, they may after<g ref="char:EOLhyphen"/>wards come into the happineſſe of your Pardon for their former Offences.</p>
+                        <pb n="11" facs="tcp:184403:8"/>
+                        <p>Thus having given you a perfect Narrative of my Riſe, Growth, and Progreſſe in this common good; together with the ſum of my deſires, as matter of encouragement in the further proſecution thereof, I will onely adde ſome few particulars to manifeſt the ad<g ref="char:EOLhyphen"/>vantage that would by the ſaid Grant, redownd immediately there<g ref="char:EOLhyphen"/>upon, to the Honour and Profit of the Nation, and then leave the premiſes to the ſerious conſideration of the Parliament, &amp; all others that deſire to further a work of ſuch publique concernment.</p>
+                        <p>
+                           <hi>As for example.</hi>
+                        </p>
+                        <p n="1">1. If in three or four thouſand Tuns of Lead yeerly raiſed, (which for ſome yeeres laſt paſt have been, and now is) the Trade and Cu<g ref="char:EOLhyphen"/>ſtomes both by Tranſportation and Importation, be kept up and encreaſed to many thouſand pounds profit yeerly, then it muſt be inferred (and cannot be denied) That if double and treble the quan<g ref="char:EOLhyphen"/>tity be ſo raiſed, by the charge and practice of my ſelfe and fellow-undertakers, The reſult thereof muſt of neceſſity be equivalent, and encreaſe the value of the Cuſtoms imported; whereby the Nation is advantaged, and the Adventurers encouraged.</p>
+                        <p>I deſire to propound this Quaere, Whether</p>
+                        <p n="2">2. If the concealed riches of our Nation ſo diſcovered (with leſſe danger and greater honour) be not much more advantagious for the inhabitants to ſeek them (by Gods providence) at home, then to imbark their thoughts and Eſtates upon the hopes of Forraign parts to enrich themſelves, by advancing the Trade of another Countrey, ſince by the practique experience of a private man, the generall Charge of a Miners profeſſion is reduced to half the value of former disburſments, and as much more certainty in the way of diſcoveries.</p>
+                        <closer>
+                           <signed>Tho. Buſhell.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Theſe conſiderations, and my late practique experience at <hi>Comb<g ref="char:EOLhyphen"/>martin</hi> in <hi>Devon,</hi> did not onely invite the worthy Merchants of <hi>Barnſtable</hi> and <hi>Bydifford</hi> to write this enſuing Letter unto me, for Tranſporting all my Lead and Oar Fraight-free in ſtead of Bal<g ref="char:EOLhyphen"/>laſt; but alſo divers other Merchants, by their good example, were induced to adventure upon my having a Farm of the Cuſtoms, according to the proportion of my Rent abovementioned, the ſeverall ſums hereafter expreſſed, as to a publique work, and in hope of enriching themſelves by the ſame providence.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="12" facs="tcp:184403:9"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce, you have been pleaſed at your own great charge to diſcover thoſe deſerted Works at <hi>Combmartin</hi> for the publique good of our Countrey: And whereas you are intereſſed in the Mynes of <hi>Wales,</hi> which furniſh you both with Lead and Lead-Oar, Theſe are to requeſt you, to be pleaſed to make this our Harbour partaker of the Benefits may proceed therein, and what we buy not from you for ready moneys, we ſhall be ready to tranſport for you Fraight-free inſtead of Ballaſt, you rendring it aboard to all ſuch Ports, as our Veſſels ſhall commerce withall: In ſo doing, we ſuppoſe the reſult thereof will more properly conduce to your hopefull procee<g ref="char:EOLhyphen"/>dings in the ſaid works of <hi>Comhmartin,</hi> which we wiſh all happy ſucceſſe, and remain</p>
+                  <closer>
+                     <signed>Your Loving friends,
+<list>
+                           <item>
+                              <hi>Richard Harris.</hi>
+                           </item>
+                           <item>
+                              <hi>William Leigh.</hi>
+                           </item>
+                           <item>
+                              <hi>George Shurt.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Dennis.</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Tucker.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Horwood.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Benny.</hi>
+                           </item>
+                           <item>
+                              <hi>William Palmer.</hi>
+                           </item>
+                           <item>
+                              <hi>Lyonel Becher.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Harris.</hi>
+                           </item>
+                           <item>
+                              <hi>William Nottel.</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Down.</hi>
+                           </item>
+                           <item>
+                              <hi>Walter Tucker.</hi>
+                           </item>
+                           <item>
+                              <hi>R. Flemming.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Medford.</hi>
+                           </item>
+                           <item>
+                              <hi>William Wood.</hi>
+                           </item>
+                           <item>
+                              <hi>Francis Newton.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Flemming.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Cox.</hi>
+                           </item>
+                           <item>
+                              <hi>Nathaniel Fiſherleigh.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Frayn.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <hi>Barnſtable</hi> 
+                        <date>6 Octob. 1648.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>WHereas <hi>Thomas Buſhel</hi> Eſquire, Farmer of the Mynes Royall, is willing and ready to adventure his pains, and a great part of his Eſtate, in diſcovering of the deſerted Mynes of <hi>Combmartin</hi> in <hi>Devonſhire,</hi> and in cutting through divers Mountains in <hi>Wales,</hi> or elſewhere in <hi>Darbiſhire,</hi> for the diſcovering of Silver and Lead Mynes. And whereas by his Relation, he is in good hopes that he ſhall get an act of Parliament freeing the ſaid Mines, ſo to be diſco<g ref="char:EOLhyphen"/>vered and recovered, from payment of any Cuſtoms for twenty one yeeres, or elſe that he ſhall become Tenant to all the Cuſtomes of
+<pb n="13" facs="tcp:184403:9"/> 
+                        <hi>England</hi> and <hi>VVales,</hi> at ſuch a Rent as they are now worth, for which he hath already Letters Patents from his Majeſty: Now for that the ſaid <hi>Thomas Buſhell,</hi> doubting his owne Eſtate will not be ſufficient to go through with, and perfect theſe chargeable Adven<g ref="char:EOLhyphen"/>tures; and being contented to admit of ſuch perſons as will adven<g ref="char:EOLhyphen"/>ture with him in the Mynes, to have a proportionable charge of the profits thereof Cuſtome free. We whoſe Names are hereunder written, being deſirous to forward the publique good of this Kingdom, and hoping (by Gods Providence) to gain profit to our ſelves, do hereby declare, That ſo ſoon as the ſaid Mr. <hi>Buſhell</hi> ſhall by an Act of Parliament have the ſaid Cuſtoms granted unto him, we will each of us according to our ſeverall Subſcriptions, lay down and pay the ſaid ſeverall ſummes of money, to be im<g ref="char:EOLhyphen"/>ployed by the ſaid M<hi rend="sup">r</hi> 
+                        <hi>Buſhel</hi> in the ſaid Mines as aforeſaid; to the end we may have a proportionable ſhare of the profits ariſing by Ad<g ref="char:EOLhyphen"/>ventures, as aforeſaid.</p>
+                     <closer>
+                        <signed>We whoſe Names are underwritten, will adventure in the buſi<g ref="char:EOLhyphen"/>neſſe aboveſaid, as followeth:
+<list>
+                              <item>
+                                 <hi>Martin Iefferſon</hi> 800 li.</item>
+                              <item>
+                                 <hi>VVilliam Parkhurſt</hi> 300 li.</item>
+                              <item>
+                                 <hi>Timothy Lumm</hi> 500 li.</item>
+                              <item>
+                                 <hi>Francis Ottley</hi> 500 li.</item>
+                              <item>
+                                 <hi>Henry Seley</hi> 500 li.</item>
+                              <item>
+                                 <hi>George Goodman</hi> 300 li.</item>
+                              <item>
+                                 <hi>Iames Ingram</hi> 300 li.</item>
+                              <item>
+                                 <hi>Robert Mees</hi> 500 li.</item>
+                              <item>
+                                 <hi>Henry Archibold</hi> 300 li.</item>
+                              <item>
+                                 <hi>Edmund Goodyer</hi> 500 li.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Many others have profered and promiſed to adventure, if the Cuſtoms be granted as deſired.</p>
+            <p>Which publique Service was likewiſe a great motive to his Excel<g ref="char:EOLhyphen"/>lency, and the Lord Viſcount <hi>Say</hi> and <hi>Seal,</hi> to direct the Letter of Requeſt, at followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Honourable <hi>William Lenthal</hi> Eſq. Speaker of the Honourable Houſe of Commons.</head>
+                  <opener>
+                     <salute>M<hi rend="sup">r</hi> Speaker,</salute>
+                  </opener>
+                  <p>I Formerly granted ſafe conduct unto <hi>Thomas Buſhel</hi> Eſquire, who had the command of the Iſle of <hi>Lundy,</hi> to come hi<g ref="char:EOLhyphen"/>ther to Treat concerning the ſurrender of that place, and he like a Gcntleman truly performed on his part ſuch Articles as were agreed on; ſince which time he hath been very indu<g ref="char:EOLhyphen"/>ſtrious in finding out of Lead Mines, which are like to produce
+<pb n="14" facs="tcp:184403:10"/> good quantities of Silver, proof whereof you may pleaſe to ſee, and having ſeen a Letter under the hands of the Merchants of <hi>Barnſta<g ref="char:EOLhyphen"/>ble,</hi> to further his endeavors for the publique; I could not but out of a ſence I have the generall good will be exceedingly advantaged by the way of his induſtry humbly offer it as a requeſt of mine, That Mr. <hi>Buſhel</hi> may have for his better incouragement, your beſt aſſiſtance in reſtoring him to all his Eſtate, according to mine agreement, and the Order of both houſes, dated the Tenth of <hi>Iuly,</hi> 1647. And al<g ref="char:EOLhyphen"/>though by that agreement and Order, he humbly conceives he may juſtly claim the Cuſtoms of Lead of <hi>England</hi> and <hi>Wales,</hi> at ſuch Rent as the ſame were formerly granted him by Letters Pattents from His Majeſty under the Great-Seal for a good Term of years unexpi<g ref="char:EOLhyphen"/>red, yet he hath been, and ſtill is contented to decline that claime, and ſubmit to ſuch a reaſonable Rent for the ſame, as the Commit<g ref="char:EOLhyphen"/>tee of the Revenue ſhall propoſe; And in purſuance hereof, the then Farmors of the Cuſtomes have by Order of the ſaid Committee of the Navy (as I am informed) returned a certificate, whereby the true values of the ſaid Cuſtoms of Lead may appear; I have there<g ref="char:EOLhyphen"/>fore thought fit, humbly to recommend the ſaid Certificate, toge<g ref="char:EOLhyphen"/>ther with the Petition of the Myners of <hi>Derby</hi>-ſhire and <hi>Devon,</hi> and his Propoſitions for the publique good and make it my requeſt that he may ſpeedily Farm the ſaid Cuſtoms of Lead, during the time of his former Grant, whereby his adventures for diſcovering Minerals, and recovering the deſerted works of this Kingdom, may be incou<g ref="char:EOLhyphen"/>raged to joyn with him in ſo common a good, leaſt hee be inforced to leave this Realm, and ſo good a work periſh by his abſence: For truly Sir, this laſt diſcovery of his in the County of <hi>Devon,</hi> with the port of other his proceedings, hath almoſt perſwaded him to be<g ref="char:EOLhyphen"/>come an Adventurer; Who remains,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Queenſtreet</hi> 
+                        <date>14. <hi>Martii,</hi> 1648.</date>
+                     </dateline>
+                     <signed>Your humble Servant, THO: FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
